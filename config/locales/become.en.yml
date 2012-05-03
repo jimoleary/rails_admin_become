@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      become:
+        title: "Become"
+        menu: "Become"
+        breadcrumb: "Become"
+        link: "Become"
+        bulk_link: "Become selected %{model_label_plural}"
+        done: "Becomeed"
