@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminBecome::VERSION
   s.authors     = ["Jim OLeary"]
   s.email       = ["jim.oleary@gmail.com"]
-  s.homepage    = "www.mylocalsocial.com"
+  s.homepage    = "https://github.com/jimoleary/rails_admin_become"
   s.summary     = "Become another user from Rails Admin user lists."
   s.description = "Simple login as functionality for localsocial."
 
